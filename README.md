@@ -1,4 +1,4 @@
 # Simple formulaire
-***Nom***
-***Prénom***
+***Nom***<br>
+***Prénom***<br>
 ***Email***
